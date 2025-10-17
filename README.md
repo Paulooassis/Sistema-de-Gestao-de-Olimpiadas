@@ -55,12 +55,6 @@ flowchart TD
 ┃ ┣ diagrama_de_pacote_simplificado.jpg
 ┃ ┣ diagrama_de_componentes.jpg
 ┃ ┗ diagrama_de_implantacao.jpg
-┣ 📁 modelagens/
-┃ ┣ diagrama_de_caso_de_uso.drawio
-┃ ┣ diagrama_de_classes.drawio
-┃ ┣ diagrama_de_pacotes.drawio
-┃ ┣ diagrama_de_componentes.drawio
-┃ ┗ diagrama_de_implantacao.drawio
 ┗ 📄 README.md
 ```
 
