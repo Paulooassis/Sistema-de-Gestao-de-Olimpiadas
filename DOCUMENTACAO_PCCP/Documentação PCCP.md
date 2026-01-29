@@ -12,16 +12,16 @@ As principais pastas estão localizadas em `src/main/java` e `src/main/resources
 
 `src/main/java`
 
-[Domain](Domain%202f6e7573f93680a0a9b7ffc6ffdca52e.md)
+[Domain](./Domain/Domain.md)
 
-[Application](Application%202f6e7573f936801cb80bd455b0d7559b.md)
+[Application](./Application/Application.md)
 
-[Infrastructure](Infrastructure%202f6e7573f93680c9b679c84bd60bacc4.md)
+[Infrastructure](./Infrasctruture/Infrastructure.md)
 
 `src/main/resources`
 
-[db.migration](db%20migration%202f6e7573f9368070a589cb43869dba9d.md)
+[db.migration](./migration/db.migration.md)
 
-[definition](definition%202f6e7573f93680609ec6e315edd4f187.md)
+[definition](./definition/definition.md)
 
-[swagger.yml](swagger%20yml%202f6e7573f93680f4b922cbbc065ef8fe.md)
+[swagger.yml](./swagger/swagger.yml.md)
