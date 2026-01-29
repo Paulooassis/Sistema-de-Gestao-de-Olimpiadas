@@ -49,10 +49,10 @@ Dessa forma:
 - 🔹 Facilidade para refatorar ou otimizar queries
 - 🔹 Melhor leitura e entendimento das repositories
 
-[ActionQuery](ActionQuery%202f6e7573f93680a7b8a2fe0927a955db.md)
+[ActionQuery](./ActionQuery.md)
 
-[AnswerQuery](AnswerQuery%202f6e7573f9368028a504dd2809485c8a.md)
+[AnswerQuery](./AnswerQuery.md)
 
-[CommentQuery](CommentQuery%202f6e7573f93680498586fdb9623e7d56.md)
+[CommentQuery](./CommentQuery.md)
 
-[OrganizationUnitQuery](OrganizationUnitQuery%202f6e7573f93680b88007f3397d621677.md)
+[OrganizationUnitQuery](./OrganizationUnitQuery.md)

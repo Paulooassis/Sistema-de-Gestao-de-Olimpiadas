@@ -5,9 +5,9 @@ Contém os detalhes de implementação e a integração com tecnologias externas
 
 **Conteúdo:**
 
-[Controllers](Controllers%2003959c5207b940eca1bc2eb66bb8a7bf.md)
+[Controllers](./Controllers/Controllers.md)
 
-[Query](Query%202f6e7573f9368087ab5bf0ea1c3c079b.md)
+[Query](./Query/Query.md)
 
 - **/mapper**: Conversores de objetos, utilizando **MapStruct**, para transformar entidades em DTOs e vice-versa. **Como por exemplo:**
 

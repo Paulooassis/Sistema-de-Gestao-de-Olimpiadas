@@ -16,7 +16,7 @@ As principais pastas estão localizadas em `src/main/java` e `src/main/resources
 
 [Application](./Application/Application.md)
 
-[Infrastructure](./Infrasctruture/Infrastructure.md)
+[Infrastructure](./Infrastructure/Infrastructure.md)
 
 `src/main/resources`
 

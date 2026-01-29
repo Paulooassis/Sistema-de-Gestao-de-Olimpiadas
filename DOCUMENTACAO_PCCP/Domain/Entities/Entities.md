@@ -17,22 +17,22 @@ Essas definições garantem consistência, integridade dos dados e melhor contro
 
 ---
 
-[Action](Action%20060aaf78209b46adaa4ab24e7c750050.md)
+[Action](./Action.md)
 
-[Answer](Answer%207b005f7255684d4f9b811db867e28976.md)
+[Answer](./Answer.md)
 
-[Assessment](Assessment%20dd9b56e761a140be806e6d573f0ebc31.md)
+[Assessment](./Assessment.md)
 
-[Comment](Comment%205f1d189bbff7435ab72e3d4a8be79547.md)
+[Comment](./Comment.md)
 
-[Deliverable](Deliverable%20e1b862b27e974fd9b69f40a5d4c53e73.md)
+[Deliverable](./Deliverable.md)
 
-[Product](Product%208c706d447fac493a971d29258b68ded9.md)
+[Product](./Product.md)
 
-[Segment](Segment%207207705cecf94645bdfbcef67ef72863.md)
+[Segment](./Segment.md)
 
-[Question](Question%20de8dd2b5f47f4c5e8cf1bc4d967009c2.md)
+[Question](./Question.md)
 
-[OrganizationUnit](OrganizationUnit%2090105d35e2b5471da1f1caf196bb9915.md)
+[OrganizationUnit](./OrganizationUnit.md)
 
-[OrganizationType](OrganizationType%201c44ef4a64cf4ffba897b60c9df2ceb5.md)
+[OrganizationType](./OrganizationType.md)

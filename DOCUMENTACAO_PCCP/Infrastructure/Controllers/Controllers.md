@@ -90,24 +90,24 @@ Em resumo, a controller deve:
 - Retornar DTOs com o HttpStatus correto;
 - Seguir fielmente o contrato definido no Swagger.
 
-[ActionControllerImpl](ActionControllerImpl%200d3bf7e4088c4b37b977760bacbab659.md)
+[ActionControllerImpl](./ActionControllerImpl.md)
 
-[AnswerControllerImpl](AnswerControllerImpl%201ff9709e63ec4ad4905d850bbf209876.md)
+[AnswerControllerImpl](./AnswerControllerImpl.md)
 
-[AssessmentControllerImpl](AssessmentControllerImpl%20baa3b542262b4fe69d35016543a422bf.md)
+[AssessmentControllerImpl](./AssessmentControllerImpl.md)
 
-[CommentControllerImpl](CommentControllerImpl%206d675aba21114fec8e448d0194a6aaa4.md)
+[CommentControllerImpl](./CommentControllerImpl.md)
 
-[DeliverableControllerImpl](DeliverableControllerImpl%20ae3fe0d53be14c4393ec7a72b52697df.md)
+[DeliverableControllerImpl](./DeliverableControllerImpl.md)
 
-[OrganizationUnitControllerImpl](OrganizationUnitControllerImpl%202f6e7573f936807c8d98cf2a6cfbd299.md)
+[OrganizationUnitControllerImpl](./OrganizationUnitControllerImpl.md)
 
-[ProductControllerImpl](ProductControllerImpl%202f6e7573f9368063bcf9e2240ad30d4f.md)
+[ProductControllerImpl](./ProductControllerImpl.md)
 
-[QuestionControllerImpl](QuestionControllerImpl%202f6e7573f936806d8e8fdbea14de41d3.md)
+[QuestionControllerImpl](./QuestionControllerImpl.md)
 
-[QuestionSetControllerImpl](QuestionSetControllerImpl%202f6e7573f936807e8f97d241314089cf.md)
+[QuestionSetControllerImpl](./QuestionSetControllerImpl.md)
 
-[QuestionSetItemControllerImpl](QuestionSetItemControllerImpl%202f6e7573f936804e84c6f91c95499b73.md)
+[QuestionSetItemControllerImpl](./QuestionSetItemControllerImpl.md)
 
-[SegmentControllerImpl](SegmentControllerImpl%202f6e7573f93680e2b58fd0e2e9d7a994.md)
+[SegmentControllerImpl](./SegmentControllerImpl.md)
