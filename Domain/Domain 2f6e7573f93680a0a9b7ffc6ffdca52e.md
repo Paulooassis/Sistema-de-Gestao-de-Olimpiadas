@@ -10,4 +10,4 @@ Contém o núcleo da aplicação e a lógica de negócio mais pura. É a camada 
 
 [Enums](Enums%20c176d846211a4b68829b337a967a6274.md)
 
-[Entities](Entities%2065c5efa621334690af098c4fc1ba4701.md)
+[Entities](./Entities/Entities%2065c5efa621334690af098c4fc1ba4701.md)
